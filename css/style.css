@@ -50,6 +50,10 @@ body {
     margin-left: 10px;
 }
 
+.top-navbar a:hover{
+    color: var(--p--);
+}
+
 .top-navbar a img {
     margin-bottom: 3px;
 }
